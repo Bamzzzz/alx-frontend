@@ -2,5 +2,3 @@
 HTML
 CSS
 Front-end
-Responsive design
-Weight: 1
